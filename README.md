@@ -2,7 +2,7 @@
 landing of company fully manually responsive
 # Landing Page for Interactive ART Company
 
-![Header Screenshot](./screenshots/landing%20-%20Google%20Chrome%207_26_2025%208_19_57%20PM.png
+![Header Screenshot](./screenshots/landing%20-%20Google%20Chrome%207_26_2025%208_19_57%20PM.png)
 
 This is a responsive landing page for a fictional company called "Interactive ART," which specializes in creating new-generation websites for businesses and creative works. The page is designed to showcase the company's services, client testimonials, portfolio, and a call-to-action section. It's built with HTML, CSS, and JavaScript to ensure it's dynamic, mobile-friendly (responsive), and engaging. The layout includes a header with navigation, a main body with sections for features, testimonials, and portfolio, and a footer with contact information.
 
