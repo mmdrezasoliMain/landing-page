@@ -37,7 +37,9 @@ This project was inspired by modern landing page trends, emphasizing simplicity,
 Here are some previews of the landing page:
 
 ### Testimonials Section
-![Testimonials Section](./screenshots/landing%20-%20Google%20Chrome%207_26_2025%208_16_19%20PM.png/landing - Google Chrome 7_26_2025 8_16_19 PM.png)
+![Testimonials Section](./screenshots/landing%20-%20Google%20Chrome%207_26_2025%208_16_19%20PM.png)
+
+
 *Dynamic cards displaying user testimonials from content creators, with placeholder text (Lorem Ipsum) and author names. Below, logos of trusted clients add social proof.*
 
 ### Portfolio and CTA Section
