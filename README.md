@@ -2,7 +2,7 @@
 landing of company fully manually responsive
 # Landing Page for Interactive ART Company
 
-![Header Screenshot](landing - Google Chrome 7_26_2025 8_19_57 PM.png)
+![Header Screenshot](./screenshots/landing%20-%20Google%20Chrome%207_26_2025%208_19_57%20PM.png/landing - Google Chrome 7_26_2025 8_19_57 PM.png)
 
 This is a responsive landing page for a fictional company called "Interactive ART," which specializes in creating new-generation websites for businesses and creative works. The page is designed to showcase the company's services, client testimonials, portfolio, and a call-to-action section. It's built with HTML, CSS, and JavaScript to ensure it's dynamic, mobile-friendly (responsive), and engaging. The layout includes a header with navigation, a main body with sections for features, testimonials, and portfolio, and a footer with contact information.
 
@@ -36,16 +36,12 @@ This project was inspired by modern landing page trends, emphasizing simplicity,
 
 Here are some previews of the landing page:
 
-### Hero Section
-![Hero Section](landing - Google Chrome 7_26_2025 8_19_57 PM.png)
-*This section introduces the company's mission with a background image of a person working on a computer, emphasizing business growth through innovative websites.*
-
 ### Testimonials Section
-![Testimonials Section](landing - Google Chrome 7_26_2025 8_16_19 PM.png)
+![Testimonials Section](./screenshots/landing%20-%20Google%20Chrome%207_26_2025%208_16_19%20PM.png/landing - Google Chrome 7_26_2025 8_16_19 PM.png)
 *Dynamic cards displaying user testimonials from content creators, with placeholder text (Lorem Ipsum) and author names. Below, logos of trusted clients add social proof.*
 
 ### Portfolio and CTA Section
-![Portfolio Section](landing - Google Chrome 7_26_2025 8_18_52 PM.png)
+![Portfolio Section](./screenshots/landing%20-%20Google%20Chrome%207_26_2025%208_18_52%20PM.pnglanding - Google Chrome 7_26_2025 8_18_52 PM.png)
 *A grid of portfolio items showing various project mockups, followed by a call-to-action area with a motivational message and an email subscription form.*
 
 
